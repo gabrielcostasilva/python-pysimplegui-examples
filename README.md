@@ -11,3 +11,5 @@ Each folder groups a single example as follows:
 - [_calculator_](./calculator/) introduces theming support, contextual menu and styling. A calculator is implemented to show case.
 
 - [_stopwatch_](./stopwatch/) shows further styling features by implementing a stopwatch.
+
+- [_text-editor_](./text-editor/) implements a simple text editor that enables saving and loading content. It main feature is to show how to create window menus.
